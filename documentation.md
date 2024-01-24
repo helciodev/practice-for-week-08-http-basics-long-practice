@@ -136,9 +136,11 @@ Request components:
 - Body: 
 
 Response components:
-- Status code:
+- Status code: 200
 - Headers: 
-- Body:
+    - Content-Type: text/html
+- Body: HTML with form to edit an existing product
+
 
 ### Submit an edit for an existing product
 
@@ -263,4 +265,6 @@ Request components:
 Response components:
 - Status code: 
 - Headers:
+
 - Body: 
+
