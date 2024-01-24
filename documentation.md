@@ -141,6 +141,7 @@ Response components:
     - Content-Type: text/html
 - Body: HTML with form to edit an existing product
 
+
 ### Submit an edit for an existing product
 
 After successful submission, user should be looking at the product detail page.
@@ -264,4 +265,6 @@ Request components:
 Response components:
 - Status code: 
 - Headers:
+
 - Body: 
+
